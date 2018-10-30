@@ -27,7 +27,7 @@
     </LinearLayout>
     <VideoView
         android:id="@+id/myVideoView"
-        android:layout_width="fill_parent"
-        android:layout_height="300dp" />
+        android:layout_width="match_parent"
+        android:layout_height="350dp" />
 
 </LinearLayout>
